@@ -55,7 +55,7 @@ public class SampleSauceTest implements SauceOnDemandSessionIdProvider {
     public SauceOnDemandAuthentication authentication = new SauceOnDemandAuthentication("klymhukivan", "cffeafdd-0d2f-4ad8-b829-9550bc8d7737");
 
     
-    //Sample commit comment
+    //Sample commit comment ofr git
     /**
      * JUnit Rule which will mark the Sauce Job as passed/failed when the test succeeds or fails.
      */
