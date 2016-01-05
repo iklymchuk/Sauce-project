@@ -1,4 +1,5 @@
 language: java  
+
 jdk:  
  - oraclejdk7
 branches:  
@@ -15,4 +16,4 @@ addons:
     username: "klymhukivan"
     access_key: "cffeafdd-0d2f-4ad8-b829-9550bc8d7737"
 
-script: mvn test
+script: mvn clean test
